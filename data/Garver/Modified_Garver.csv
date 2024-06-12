@@ -1,0 +1,10 @@
+﻿Line,From,To,Reactance (p.u),P_line_max (MW),Status,Investment
+1,1,2,0.4,60,existing,40
+2,1,4,0.6,80,candidate,70
+3,1,5,0.2,100,candidate,20
+4,2,3,0.2,70,existing,20
+5,2,4,0.4,100,candidate,80
+6,2,6,0.3,80,candidate,30
+7,3,5,0.2,100,existing,20
+8,4,6,0.3,80,candidate,50
+9,1,6,0.8,120,candidate,120
